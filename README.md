@@ -32,7 +32,7 @@ graph.updateAlpha(0.25)
 
 ## Acknowledgements
 
-This project was developed under a Research Initiation Grant, which was financed by national funds through FCT – Foundation for Science and Technology, I.P., in the scope of project CISUC – UID/CEC/00326/2020.
+This project was developed under Research Initiation Grant (DPA-20-710), which was financed by national funds through FCT – Foundation for Science and Technology, I.P., in the scope of project CISUC – UID/CEC/00326/2020.
 
 ## License
 [GPLv3](LICENSE)
